@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAGUA – Log in</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="container nav-container">
+                <a href="index.html" class="logo">TAGUA<span>.</span></a>
+                <div class="menu-toggle" id="menu-toggle"><i class="fas fa-bars"></i></div>
+                <div class="nav-links" id="nav-links">
+                    <a href="index.html#features">Features</a>
+                    <a href="index.html#how">How it works</a>
+                    <a href="index.html#pricing">Pricing</a>
+                    <a href="index.html#testimonials">Testimonials</a>
+                </div>
+                <div class="nav-cta" id="nav-cta">
+                    <a href="login.html" class="btn btn-outline">Log in</a>
+                    <a href="signup.html" class="btn btn-primary">Sign up</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="auth-container">
+            <div class="auth-card">
+                <h2>Welcome back</h2>
+                <form id="loginForm">
+                    <div class="form-group">
+                        <label for="phone">Phone number</label>
+                        <input type="tel" id="phone" name="phone" placeholder="+254712345678" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="pin">4‑digit PIN</label>
+                        <input type="password" id="pin" name="pin" placeholder="••••" maxlength="4" pattern="\d{4}" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Log in</button>
+                </form>
+                <p class="auth-footer">
+                    Don't have an account? <a href="signup.html">Sign up</a>
+                </p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <a href="index.html" class="logo">TAGUA<span style="color: var(--secondary);">.</span></a>
+                    <p>Protecting what matters most – your devices.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Product</h4>
+                    <ul>
+                        <li><a href="index.html#features">Features</a></li>
+                        <li><a href="index.html#pricing">Pricing</a></li>
+                        <li><a href="index.html#how">How it works</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="#">Privacy policy</a></li>
+                        <li><a href="#">Terms of service</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="copyright">
+                &copy; 2026 TAGUA. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
