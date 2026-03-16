@@ -82,7 +82,8 @@ Device theft and loss remain major challenges globally. TAGUA aims to provide a 
 tagua-landing/
 │
 ├── index.html        # Main landing page
-│
+│-signup.html
+-----login.html
 ├── README.md         # Project documentation
 │
 └── assets/           # (optional future folder)
