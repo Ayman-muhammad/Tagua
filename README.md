@@ -1,7 +1,7 @@
 Below is a **professional senior-level README** you can use for your GitHub repository for the **TAGUA Device Tracking & Recovery Landing Page**.
 After the README, I’ll also show you **step-by-step how to host the `index.html` on GitHub Pages**.
 
----
+
 
 # 📍 TAGUA — Device Tracking & Recovery Platform
 
@@ -11,7 +11,7 @@ This repository contains the **official landing page** for TAGUA — a responsiv
 
 The page showcases the product's capabilities including **real-time tracking, remote lockdown, community-driven recovery, and secure encryption.**
 
----
+
 
 # 🚀 Live Demo
 
@@ -21,7 +21,7 @@ Once deployed with **GitHub Pages**, the site will be available at:
 https://your-username.github.io/tagua
 ```
 
----
+
 
 # 🧠 Project Vision
 
@@ -32,7 +32,6 @@ Device theft and loss remain major challenges globally. TAGUA aims to provide a 
 * Leverage community assistance for recovery
 * Maintain privacy through strong encryption
 
----
 
 # ✨ Features
 
@@ -66,7 +65,7 @@ Device theft and loss remain major challenges globally. TAGUA aims to provide a 
 * Smooth animations and transitions
 * Modern UX design
 
----
+
 
 # 🏗️ Tech Stack
 
@@ -79,7 +78,7 @@ Device theft and loss remain major challenges globally. TAGUA aims to provide a 
 | Google Fonts (Inter) | Typography       |
 | GitHub Pages         | Static hosting   |
 
----
+
 
 # 📂 Project Structure
 
@@ -98,7 +97,7 @@ tagua-landing/
 
 Currently the project is implemented as a **single-page static application**.
 
----
+
 
 # 🎨 UI Sections
 
@@ -140,7 +139,7 @@ User success stories demonstrating recovery and security benefits.
 
 Navigation links, social media, and legal references.
 
----
+
 
 # ⚡ Performance & UX
 
@@ -159,7 +158,7 @@ Key UI improvements include:
 * Sticky navigation bar
 * Smooth scrolling
 
----
+
 
 # 🛠️ Local Development
 
@@ -185,13 +184,12 @@ Then open:
 http://localhost:8000
 ```
 
----
 
 # 🌍 Deployment (GitHub Pages)
 
 The project is deployed using **GitHub Pages** for free static hosting.
 
----
+
 
 # 👨‍💻 Contributing
 
@@ -213,7 +211,7 @@ Commit your changes
 Open a Pull Request
 ```
 
----
+
 
 # 🔮 Future Roadmap
 
@@ -226,7 +224,7 @@ Upcoming platform features:
 * Police API integrations
 * IoT device compatibility
 
----
+
 
 # 🔐 Security Philosophy
 
@@ -239,13 +237,13 @@ Key principles:
 * User-controlled device access
 * Secure authentication flows
 
----
+
 
 # 📜 License
 
 MIT License
 
----
+
 
 # ❤️ Acknowledgements
 
@@ -253,13 +251,13 @@ MIT License
 * Google Fonts
 * Open Web Platform
 
----
+
 
 # 🇰🇪 Built in Kenya
 
 Made with ❤️ to improve device security globally.
 
----
+
 
 # 👤 Author
 
@@ -274,5 +272,5 @@ GitHub:
 https://github.com/Ayman-muhammad
 ```
 
----
+
 
