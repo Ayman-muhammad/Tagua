@@ -1,7 +1,3 @@
-Below is a **professional senior-level README** you can use for your GitHub repository for the **TAGUA Device Tracking & Recovery Landing Page**.
-After the README, I’ll also show you **step-by-step how to host the `index.html` on GitHub Pages**.
-
-
 
 # 📍 TAGUA — Device Tracking & Recovery Platform
 
